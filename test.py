@@ -8,3 +8,4 @@ elif a < b:
 else:
     print('values are')
 s1 = 1
+s2 = 2 
