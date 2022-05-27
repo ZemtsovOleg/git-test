@@ -9,3 +9,4 @@ else:
     print('values are')
 s1 = 1
 s2 = 2 
+s3 = 3
